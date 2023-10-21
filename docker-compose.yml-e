@@ -6,8 +6,8 @@ services:
     image:  apajon/ticket-ideal-backend:latest
     environment:
       AWS_REGION: "us-east-1"
-      AWS_SECRET_ACCESS_KEY: "ZUAOZJswDRpHyYCgaMtSz3HdG9rgdVDPBLpcQOCM"
-      AWS_ACCESS_KEY_ID: "ASIAZROVKZRNXIIT2YGH"
+      AWS_SECRET_ACCESS_KEY: "2d4GCSpPbFFdhRVUAjDN2qTSA9BTsWaXMBXptJcd"
+      AWS_ACCESS_KEY_ID: "ASIAZROVKZRNVQSIJMXW"
       AWS_SESSION_TOKEN: "FwoGZXIvYXdzEOj//////////wEaDOZ/wGGlHmuf4ZrCbSLMAbjXRUZDEjd0n4m44ek85/gr/gKBOskbgXrVeRO1RoN1mVIXkLBZIShKsrlUlbbFarSFz1moFTn+9KKW9fD5tdhzvF398dWIhuPZaUBkPhbIqlCTxMdI2BXKA0X1uDmezRfnzyaxrtAg04irBmmUoZNIKK7SDJKj5yuLUTuArF6c9ntDVnYH68Lehf+tXfLVCxdpBpoSOA0wqYPxQA5dGmFRTK8ZiWS/JmKYKnrv4+gCXx9pbXqbhtN+YHwzdJ0NvsuB6jltJ+UhRM1/1Cimvs+pBjIt0t0I9veWxx6Gku9OPaqSIi6pZf3ZF/2CjFQvnRz6vDFJQRWmg1vJuIPjWe0y"
     ports:
       - "3000:3000"
